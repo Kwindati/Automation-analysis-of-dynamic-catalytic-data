@@ -84,7 +84,7 @@ merged as-measured, so real process behavior like pulsing-synced temperature
 fluctuations stays visible for QC).
 
 **3. Rolling average** - for every catalyst, the true pulse period is auto-detected
-by peak-picking the CH4 signal (median gap between consecutive pulse peaks, robust
+by peak-picking the Ar signal (median gap between consecutive pulse peaks, robust
 to a few noisy/split peaks). The **bypass file's period is used to size the
 rolling window for both the bypass and reaction smoothing** of that catalyst -
 bypass is the cleaner reference signal (no catalytic reaction / no reaction-driven
