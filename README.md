@@ -8,7 +8,7 @@ interactive dashboard to compare catalysts side by side.
 
 ---
 
-## Why this exists
+## Description
 
 The reactor feed is periodically pulsed (reactant gas / inert sweep), so every raw
 mass-spec channel (`Sig:_MCD_CH4`, `CO2`, `Ar`, `H2`, `CO`, `H2O`) oscillates in a
