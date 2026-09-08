@@ -1,7 +1,7 @@
 # DRM Pulsed-Flow KPI Pipeline
 
 Automated data pipeline for **Dry Reforming of Methane (DRM)** catalyst testing on a
-pulsed-flow micro-reactor / mass-spectrometer setup. It replaces hours of manual
+pulsed-flow reactor equipped with mass-spectrometer detector. It replaces hours of manual
 spreadsheet processing with a single script: it discovers raw instrument files,
 cleans the pulsing/noisy mass-spec signal, computes reaction KPIs, and builds an
 interactive dashboard to compare catalysts side by side.
