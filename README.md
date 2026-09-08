@@ -173,3 +173,4 @@ A few constants near the top of the script control the pipeline's behavior:
 - The bypass run should be long enough to give a stable, representative baseline;
   a very short bypass run gives the startup transient more relative weight in the
   baseline average.
+- Included as additional file is a user **manual pdf** guide for running this script
